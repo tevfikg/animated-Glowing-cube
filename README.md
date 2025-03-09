@@ -9,9 +9,6 @@ A visually stunning glassmorphism cube that spins inside a glowing circular box,
 - **Glowing Circle Box** – A neon-like circular frame enhances the futuristic look.
 - **Responsive Design** – Works across different screen sizes.
 
-## 📸 Preview
-[Insert an image or GIF preview of your project here]
-
 ## 🛠️ Technologies Used
 - **HTML5** – Structuring the cube and container.
 - **CSS3** – Applying the glassmorphism effect, animations, and glowing elements.
